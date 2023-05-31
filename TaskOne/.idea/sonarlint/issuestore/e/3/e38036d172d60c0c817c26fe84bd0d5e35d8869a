@@ -1,0 +1,30 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëÓœû
+[	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(ëÓœû
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(ã⁄∑—¸ˇˇˇˇ
+`	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(ÃØÂÜ˘ˇˇˇˇ
+
+java:S1192"iDefine a constant instead of duplicating this literal "Enter an integer according to the option" 4 times.(ëÓœû
+P
+java:S1141n"5Extract this nested try block into a separate method.(Á£Íç˙ˇˇˇˇ
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ìé–
+w
+java:S1488_"\Immediately return this expression instead of assigning it to the temporary variable "name".(Ú¸ÇË¸ˇˇˇˇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ”Ùë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥‡ù°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®∂—Õ˛ˇˇˇˇ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ä‹ƒ£˚ˇˇˇˇ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(æ”Ùë
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¥‡ù°
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(®∂—Õ˛ˇˇˇˇ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÏÅ¢º
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(®∂—Õ˛ˇˇˇˇ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(‘Á¢◊
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ﬂÀ˚Ç¯ˇˇˇˇ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Ê»Ω≤
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(®∂—Õ˛ˇˇˇˇ
+U
+java:S1854Å">Remove this useless assignment to local variable "expiryDate".(¢Ÿ∫ÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Å¯Ü‚
+F
+java:S1481Å"/Remove this unused "expiryDate" local variable.(¢Ÿ∫ÿ

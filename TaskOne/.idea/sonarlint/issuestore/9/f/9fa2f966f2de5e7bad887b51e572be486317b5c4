@@ -1,0 +1,17 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Äñ£¯ûÿÿÿÿ
+[	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(‘îÏ
+7
+java:S1170
+"!Make this final field static too.(Æ®ÛÌ
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(Æ®ÛÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Õš¬
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ë‡„
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¾Óô‘
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(´à¡
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFSheet'.(¡ÏŸ®úÿÿÿÿ

@@ -1,0 +1,31 @@
+
+`	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(‘îÏ
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(¹©‘åúÿÿÿÿ
+t	java:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(Çƒ…™şÿÿÿÿ
+{	java:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(ªá­Óüÿÿÿÿ8™ºÙ¼©0
+h
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(œû¿Ø
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Ûì¸ß
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ƒ„î—ûÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(´à¡
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ì¨ˆÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(ôİÌR
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ç°¸·ûÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Íæ‘üÿÿÿÿ
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(ÕØ¢ıÿÿÿÿ8Å‰«¼©0
+9
+java:S3626º"Remove this redundant jump.(ûÁİ…8Ã¤¼©0
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(äËÏ€ùÿÿÿÿ8Ä¤¼©0
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(øéí»ıÿÿÿÿ8Ä¤¼©0
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(Ë”»Ú8Å¤¼©0
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(†½ÇÎûÿÿÿÿ8Å¤¼©0
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(àÆæ…8ñğ¤¼©0
+Y
+java:S1128"<Remove this unused import 'org.apache.poi.ss.usermodel.Row'.(›Ü…8ò±¥¼©0

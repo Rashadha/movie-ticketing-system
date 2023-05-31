@@ -1,0 +1,10 @@
+
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(»Ò´¡
+_
+java:S1128"=Remove this unused import 'org.apache.poi.ss.usermodel.Cell'.(éÊˆüÿÿÿÿ8›Õ³©0
+c
+java:S1128"ARemove this unused import 'org.apache.poi.ss.usermodel.CellType'.(û×ñ¤ùÿÿÿÿ8‘›Õ³©0
+Y
+java:S1128"<Remove this unused import 'org.apache.poi.ss.usermodel.Row'.(›Ü…8‘›Õ³©0
+<
+java:S1068"&Remove this unused "sc" private field.(À±®š
